@@ -11,5 +11,6 @@ public class Hello {
         System.out.println("hot-fix");
 
         System.out.println("test");
+        System.out.println("push master");
     }
 }

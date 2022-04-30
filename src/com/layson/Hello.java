@@ -7,5 +7,7 @@ public class Hello {
         System.out.println("hello world 3");
 
         System.out.println("merge master");
+
+        System.out.println("hot-fix");
     }
 }

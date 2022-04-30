@@ -12,5 +12,7 @@ public class Hello {
 
         System.out.println("test");
         System.out.println("push master");
+        
+        System.out.println("pull master");
     }
 }

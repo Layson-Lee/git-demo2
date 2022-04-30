@@ -9,5 +9,7 @@ public class Hello {
         System.out.println("merge master");
 
         System.out.println("hot-fix");
+
+        System.out.println("test");
     }
 }
